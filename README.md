@@ -1,1 +1,3 @@
-# A website based on dogs. It is built using HTML, CSS, Bootstrap. 
+# Tin Dog 
+
+A website based on dogs. It is built using HTML, CSS, Bootstrap. 
